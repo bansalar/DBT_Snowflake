@@ -1,9 +1,0 @@
-{% docs order status %}
-
-status      definition
-
-completed   status is compelted
-intransit   status in intransit
-
-
-{% enddocs %}
